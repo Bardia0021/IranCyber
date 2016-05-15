@@ -242,16 +242,16 @@ An advanced administration bot based on TG-CLI written in Lua
 
 
 
-Admins
+Admin
 @Bardia021 [Founder]
-@aliebadi5 [Developer]
+
 
 
 
 
 Our channels
 
-@Smartgp [persian]
+@Amme_Taalaa [persian]
 
 ]],
     help_text_realm = [[
