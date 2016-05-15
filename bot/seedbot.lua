@@ -232,6 +232,7 @@ function create_config( )
 	"supergroup",
 	"updater",
 	"whitelist",
+	"del",
 	"msg_checks"
     },
     sudo_users = {203865460,136141698},--Sudo users
